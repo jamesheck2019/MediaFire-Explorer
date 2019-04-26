@@ -12,5 +12,5 @@ client to manage your files in mediafire
 
 `## Download:`
 [https://github.com/jamesheck2019/MediaFire-Explorer/releases](https://github.com/jamesheck2019/MediaFire-Explorer/releases)
-.
+* .
 ![https://i.postimg.cc/nLNskbZg/ure-Wiz131.png](https://i.postimg.cc/nLNskbZg/ure-Wiz131.png)
