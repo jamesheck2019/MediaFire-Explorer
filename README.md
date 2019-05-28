@@ -9,6 +9,7 @@ client to manage your files in mediafire
 * upload download files folders
 * share files folders
 * list shared files folders
+* Grab MediaFire stream link
 
 `## Download:`
 [https://github.com/jamesheck2019/MediaFire-Explorer/releases](https://github.com/jamesheck2019/MediaFire-Explorer/releases)
