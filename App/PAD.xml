@@ -1,124 +1,124 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <XML_DIZ_INFO>
-	<MASTER_PAD_VERSION_INFO>
-		<MASTER_PAD_EDITOR>GSA Auto SoftSubmit v8.12 http://software.submission.gsa-online.de/</MASTER_PAD_EDITOR>
-		<MASTER_PAD_URL>http://software.submission.gsa-online.de/</MASTER_PAD_URL>
-		<MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
-		<MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
-		<CERTIFIED>Y</CERTIFIED>
-		<CERTIFICATE_ID>CRT-B200B74760D0</CERTIFICATE_ID>
-		<CERTIFICATE_LICENSE>http://repository.appvisor.com/crt-b200b74760d0</CERTIFICATE_LICENSE>
-	</MASTER_PAD_VERSION_INFO>
-	<Company_Info>
-		<PublisherID>pid-e500ff18bd90</PublisherID>
-		<BrandID>bid-f500ea1dcd90</BrandID>
-		<Company_Name>DeQmaTech</Company_Name>
-		<Country>Hungary</Country>
-		<State_Province>Balmaz</State_Province>
-		<City_Town>Debrecen</City_Town>
-		<Zip_Postal_Code>44576</Zip_Postal_Code>
-		<Address_1>Hungary, Debrecen, Balmaz 14</Address_1>
-		<Address_2></Address_2>
-		<Company_WebSite_URL>https://loudkode.github.io/</Company_WebSite_URL>
-		<Contact_Info>
-			<Contact_First_Name>James</Contact_First_Name>
-			<Contact_Last_Name>Heck</Contact_Last_Name>
-			<Contact_Email>jamesheck2019@protonmail.com</Contact_Email>
-			<Author_First_Name>James</Author_First_Name>
-			<Author_Last_Name>Heck</Author_Last_Name>
-			<Author_Email>jamesheck2019@protonmail.com</Author_Email>
-			<Contact_Phone></Contact_Phone>
-		</Contact_Info>
-		<Support_Info>
-			<Sales_Email>jamesheck2019@protonmail.com</Sales_Email>
-			<Support_Email>jamesheck2019@protonmail.com</Support_Email>
-			<General_Email>jamesheck2019@protonmail.com</General_Email>
-			<Sales_Phone></Sales_Phone>
-			<Support_Phone></Support_Phone>
-			<General_Phone></General_Phone>
-			<Fax_Phone></Fax_Phone>
-		</Support_Info>
-		<GooglePlusPage></GooglePlusPage>
-		<LinkedinPage></LinkedinPage>
-		<TwitterCompanyPage></TwitterCompanyPage>
-		<FacebookCompanyPage></FacebookCompanyPage>
-		<CompanyStorePage></CompanyStorePage>
-	</Company_Info>
-	<Program_Info>
-		<AppID>app-b200b74760d0</AppID>
-		<Program_Name>MediaFire Explorer</Program_Name>
-		<Program_Version>1.27.0.0</Program_Version>
-		<Program_Release_Month>11</Program_Release_Month>
-		<Program_Release_Day>11</Program_Release_Day>
-		<Program_Release_Year>2019</Program_Release_Year>
-		<Program_Cost_Dollars>0</Program_Cost_Dollars>
-		<Program_Cost_Other_Code></Program_Cost_Other_Code>
-		<Program_Cost_Other></Program_Cost_Other>
-		<Program_Type>Freeware</Program_Type>
-		<Program_Category_Class>Network &amp; Internet::File Sharing/Peer to Peer</Program_Category_Class>
-		<Program_Specific_Category>Internet</Program_Specific_Category>
-		<Program_Categories>Network &amp; Internet::File Sharing/Peer to Peer, Misc. Telecommunications Utilities, Internet</Program_Categories>
-		<Program_Release_Status>Major Update</Program_Release_Status>
-		<Program_Install_Support>No Install Support</Program_Install_Support>
-		<Program_OS_Support>Win2000,Win7 x32,Win7 x64,WinOther,WinServer,WinVista,WinVista x64,WinXP,Windows 8</Program_OS_Support>
-		<Program_Language>English</Program_Language>
-		<Program_Change_Info>-Add proxy</Program_Change_Info>
-		<Program_System_Requirements>Microsoft .NET Framework 4.5.2</Program_System_Requirements>
-		<Limitations></Limitations>
-		<Awards></Awards>
-		<File_Info>
-			<File_Size_Bytes>4823040</File_Size_Bytes>
-			<File_Size_K>4710</File_Size_K>
-			<File_Size_MB>4.60</File_Size_MB>
-			<Filename_Versioned>mexplo00.zip</Filename_Versioned>
-			<Filename_Previous>mexplo00.zip</Filename_Previous>
-			<Filename_Generic>mexplo.zip</Filename_Generic>
-			<Filename_Long>mediafire_explorer.zip</Filename_Long>
-		</File_Info>
-		<Expire_Info>
-			<Has_Expire_Info>N</Has_Expire_Info>
-			<Expire_Count></Expire_Count>
-			<Expire_Based_On></Expire_Based_On>
-			<Expire_Other_Info></Expire_Other_Info>
-			<Expire_Month></Expire_Month>
-			<Expire_Day></Expire_Day>
-			<Expire_Year></Expire_Year>
-		</Expire_Info>
-		<FacebookFanPage></FacebookFanPage>
-		<videolink1url></videolink1url>
-		<videolink2url></videolink2url>
-		<Includes_JAVA_VM>N</Includes_JAVA_VM>
-		<Includes_DirectX>N</Includes_DirectX>
-		<Includes_VB_Runtime>N</Includes_VB_Runtime>
-		<GooglePlusProductPage></GooglePlusProductPage>
-		<FacebookProductPage></FacebookProductPage>
-		<GooglePlusFanPage></GooglePlusFanPage>
-	</Program_Info>
-	<Web_Info>
-		<Application_URLs>
-			<Application_Info_URL>http://github.com/jamesheck2019/MediaFire-Explorer/wiki</Application_Info_URL>
-			<Application_Order_URL></Application_Order_URL>
-			<Application_Screenshot_URL>https://raw.githubusercontent.com/jamesheck2019/MediaFire-Explorer/master/App/Screens/001_800x600.png</Application_Screenshot_URL>
-			<Application_Icon_URL>https://raw.githubusercontent.com/jamesheck2019/MediaFire-Explorer/master/App/Screens/icon.png</Application_Icon_URL>
-			<Application_XML_File_URL>http://repository.appvisor.com/app-b200b74760d0/site-01/MediaFire_Explorer_pad.xml</Application_XML_File_URL>
-			<Video_Link_1_URL></Video_Link_1_URL>
-			<Video_Link_2_URL></Video_Link_2_URL>
-		</Application_URLs>
-		<Download_URLs>
-			<Primary_Download_URL>https://github.com/jamesheck2019/MediaFire-Explorer/releases/download/1.27.0.0/MediaFire.Explorer.v1.27.0.zip</Primary_Download_URL>
-			<Secondary_Download_URL>https://bitbucket.org/JamesHeck/mediafire-explorer/downloads/MediaFire_Explorer_v1.27.0.zip</Secondary_Download_URL>
-			<Additional_Download_URL_1></Additional_Download_URL_1>
-			<Additional_Download_URL_2></Additional_Download_URL_2>
-		</Download_URLs>
-	</Web_Info>
-	<Program_Descriptions>
-		<English>
-			<Keywords>upload,download,share,manage,cloud</Keywords>
-			<Char_Desc_45>client to manage your files in mediafire.com</Char_Desc_45>
-			<Char_Desc_80>client to manage your files in mediafire</Char_Desc_80>
-			<Char_Desc_250>client to manage your files in mediafire</Char_Desc_250>
-			<Char_Desc_450>copy files folders move files folders rename files folders delete files folders upload download files folders share files folders list shared files folders list bookmarked files folders manage data rooms (create, edit, delete) Grab MediaFire stream link</Char_Desc_450>
-			<Char_Desc_2000>Upload your files and folders to MediaFire via the desktop client and store them in a cloud. Generating a link for sharing with open or restricted access is possible. Pausing downloads and removing files is possible.
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>AppVisor 1.0.43</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
+    <CERTIFIED>Y</CERTIFIED>
+    <CERTIFICATE_ID>CRT-B200B74760D0</CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE>http://repository.appvisor.com/crt-b200b74760d0</CERTIFICATE_LICENSE>
+    <MASTER_PAD_URL>http://software.submission.gsa-online.de/</MASTER_PAD_URL>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-F500EA1DCD90</Company_UIN>
+    <Product_UIN>APP-2300966884D0</Product_UIN>
+    <Publish_on_CD>Y</Publish_on_CD>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_String>MediaFire Explorer</Search_String>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <Backlink></Backlink>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Search_String_Unique>MediaFire Explorer</Search_String_Unique>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Company_Description></Company_Description>
+  </RoboSoft>
+  <Company_Info>
+    <PublisherID>pid-e500ff18bd90</PublisherID>
+    <BrandID>bid-f500ea1dcd90</BrandID>
+    <Company_Name>DeQmaTech</Company_Name>
+    <Country>Hungary</Country>
+    <State_Province>Balmaz</State_Province>
+    <City_Town>Debrecen</City_Town>
+    <Zip_Postal_Code>44576</Zip_Postal_Code>
+    <Address_1>Hungary, Debrecen, Balmaz 14</Address_1>
+    <Address_2></Address_2>
+    <Company_WebSite_URL>https://loudkode.github.io/</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>James</Contact_First_Name>
+      <Contact_Last_Name>Heck</Contact_Last_Name>
+      <Contact_Email>jamesheck2019@protonmail.com</Contact_Email>
+      <Author_First_Name>James</Author_First_Name>
+      <Author_Last_Name>Heck</Author_Last_Name>
+      <Author_Email>jamesheck2019@protonmail.com</Author_Email>
+      <Contact_Phone></Contact_Phone>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>jamesheck2019@protonmail.com</Sales_Email>
+      <Support_Email>jamesheck2019@protonmail.com</Support_Email>
+      <General_Email>jamesheck2019@protonmail.com</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <LinkedinPage></LinkedinPage>
+    <TwitterCompanyPage></TwitterCompanyPage>
+    <FacebookCompanyPage></FacebookCompanyPage>
+  </Company_Info>
+  <Program_Info>
+    <AppID>app-2300966884d0</AppID>
+    <Program_Name>MediaFire Explorer</Program_Name>
+    <Program_Version>1.27.0.0</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>11</Program_Release_Day>
+    <Program_Release_Year>2019</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Category_Class>Network &amp; Internet::File Sharing/Peer to Peer</Program_Category_Class>
+    <Program_Specific_Category>Internet</Program_Specific_Category>
+    <Program_Categories>Network &amp; Internet::File Sharing/Peer to Peer, Misc. Telecommunications Utilities, Internet</Program_Categories>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>-Add proxy</Program_Change_Info>
+    <Program_System_Requirements>Microsoft .NET Framework 4.5.2</Program_System_Requirements>
+    <Limitations>No limitations</Limitations>
+    <Awards></Awards>
+    <File_Info>
+      <File_Size_Bytes>4823040</File_Size_Bytes>
+      <File_Size_K>4710</File_Size_K>
+      <File_Size_MB>4.60</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On></Expire_Based_On>
+      <Expire_Year></Expire_Year>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+    </Expire_Info>
+    <Includes_JAVA_VM>N</Includes_JAVA_VM>
+    <Includes_DirectX>N</Includes_DirectX>
+    <Includes_VB_Runtime>N</Includes_VB_Runtime>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://github.com/jamesheck2019/MediaFire-Explorer/wiki</Application_Info_URL>
+      <Application_Order_URL></Application_Order_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/jamesheck2019/MediaFire-Explorer/master/App/Screens/001_800x600.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/jamesheck2019/MediaFire-Explorer/master/App/Screens/icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>http://repository.appvisor.com/app-2300966884d0/site-01/MediaFire_Explorer_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/jamesheck2019/MediaFire-Explorer/releases/download/1.27.0.0/MediaFire.Explorer.v1.27.0.zip</Primary_Download_URL>
+      <Secondary_Download_URL>https://bitbucket.org/JamesHeck/mediafire-explorer/downloads/MediaFire_Explorer_v1.27.0.zip</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>upload,download,share,manage,cloud</Keywords>
+      <Char_Desc_45>client to manage your files in mediafire.com</Char_Desc_45>
+      <Char_Desc_80>client to manage your files in mediafire</Char_Desc_80>
+      <Char_Desc_250>client to manage your files in mediafire</Char_Desc_250>
+      <Char_Desc_450>copy files folders move files folders rename files folders delete files folders upload download files folders share files folders list shared files folders list bookmarked files folders manage data rooms (create, edit, delete) Grab MediaFire stream link</Char_Desc_450>
+      <Char_Desc_2000>Upload your files and folders to MediaFire via the desktop client and store them in a cloud. Generating a link for sharing with open or restricted access is possible. Pausing downloads and removing files is possible.
 MediaFire Desktop is a neat cloud-based application that serves as a lesser-known, but competent alternative to services such as Dropbox of Google Drive.
 In its core MediaFire Desktop is a client for the Web service of the same name. It provides a simple interface that helps users synchronize files between several devices, both stationary and mobile, and access such files at any moment. All types of data that you have stored using MediaFire are available at all times from any location, they can be shared with other users, and you also make sure that your information is not lost if the physical data storage device is broken or destroyed. 
 
@@ -141,186 +141,96 @@ Overall, MediaFire Desktop is a competent app for accessing and using a solid de
 * list bookmarked files folders
 * Grab MediaFire stream link
 * extract files from shared folder</Char_Desc_2000>
-		</English>
-	</Program_Descriptions>
-	<Permissions>
-		<Distribution_Permissions>The free version of MediaFire Explorer can be freely distributed over the internet in an unchanged form</Distribution_Permissions>
-		<EULA>The free version of MediaFire Explorer can be freely distributed over the internet in an unchanged form</EULA>
-	</Permissions>
-	<RoboSoft>
-		<Publish_on_CD>TRUE</Publish_on_CD>
-		<product_uin>APP-B200B74760D0</product_uin>
-	</RoboSoft>
-	<Affiliates>
-		<Affiliates_FORM>Y</Affiliates_FORM>
-		<Affiliates_VERSION>1.4</Affiliates_VERSION>
-		<Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
-		<Affiliates_Information_Page></Affiliates_Information_Page>
-		<Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
-		<Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
-		<Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
-		<Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
-		<Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
-		<Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
-		<Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
-		<Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
-		<Affiliates_Cleverbridge_Order_Page></Affiliates_Cleverbridge_Order_Page>
-		<Affiliates_Cleverbridge_Vendor_ID></Affiliates_Cleverbridge_Vendor_ID>
-		<Affiliates_Cleverbridge_Product_ID></Affiliates_Cleverbridge_Product_ID>
-		<Affiliates_Cleverbridge_Maximum_Commission_Rate></Affiliates_Cleverbridge_Maximum_Commission_Rate>
-		<Affiliates_clixGalore_Order_Page></Affiliates_clixGalore_Order_Page>
-		<Affiliates_clixGalore_Vendor_ID></Affiliates_clixGalore_Vendor_ID>
-		<Affiliates_clixGalore_Product_ID></Affiliates_clixGalore_Product_ID>
-		<Affiliates_clixGalore_Maximum_Commission_Rate></Affiliates_clixGalore_Maximum_Commission_Rate>
-		<Affiliates_CommissionJunction_Order_Page></Affiliates_CommissionJunction_Order_Page>
-		<Affiliates_CommissionJunction_Vendor_ID></Affiliates_CommissionJunction_Vendor_ID>
-		<Affiliates_CommissionJunction_Product_ID></Affiliates_CommissionJunction_Product_ID>
-		<Affiliates_CommissionJunction_Maximum_Commission_Rate></Affiliates_CommissionJunction_Maximum_Commission_Rate>
-		<Affiliates_DigiBuy_Order_Page></Affiliates_DigiBuy_Order_Page>
-		<Affiliates_DigiBuy_Vendor_ID></Affiliates_DigiBuy_Vendor_ID>
-		<Affiliates_DigiBuy_Product_ID></Affiliates_DigiBuy_Product_ID>
-		<Affiliates_DigiBuy_Maximum_Commission_Rate></Affiliates_DigiBuy_Maximum_Commission_Rate>
-		<Affiliates_DigitalCandle_Order_Page></Affiliates_DigitalCandle_Order_Page>
-		<Affiliates_DigitalCandle_Vendor_ID></Affiliates_DigitalCandle_Vendor_ID>
-		<Affiliates_DigitalCandle_Product_ID></Affiliates_DigitalCandle_Product_ID>
-		<Affiliates_DigitalCandle_Maximum_Commission_Rate></Affiliates_DigitalCandle_Maximum_Commission_Rate>
-		<Affiliates_Emetrix_Order_Page></Affiliates_Emetrix_Order_Page>
-		<Affiliates_Emetrix_Vendor_ID></Affiliates_Emetrix_Vendor_ID>
-		<Affiliates_Emetrix_Product_ID></Affiliates_Emetrix_Product_ID>
-		<Affiliates_Emetrix_Maximum_Commission_Rate></Affiliates_Emetrix_Maximum_Commission_Rate>
-		<Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
-		<Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
-		<Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
-		<Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
-		<Affiliates_iPortis_Order_Page></Affiliates_iPortis_Order_Page>
-		<Affiliates_iPortis_Vendor_ID></Affiliates_iPortis_Vendor_ID>
-		<Affiliates_iPortis_Product_ID></Affiliates_iPortis_Product_ID>
-		<Affiliates_iPortis_Maximum_Commission_Rate></Affiliates_iPortis_Maximum_Commission_Rate>
-		<Affiliates_Kagi_Order_Page></Affiliates_Kagi_Order_Page>
-		<Affiliates_Kagi_Vendor_ID></Affiliates_Kagi_Vendor_ID>
-		<Affiliates_Kagi_Product_ID></Affiliates_Kagi_Product_ID>
-		<Affiliates_Kagi_Maximum_Commission_Rate></Affiliates_Kagi_Maximum_Commission_Rate>
-		<Affiliates_LinkShare_Order_Page></Affiliates_LinkShare_Order_Page>
-		<Affiliates_LinkShare_Vendor_ID></Affiliates_LinkShare_Vendor_ID>
-		<Affiliates_LinkShare_Product_ID></Affiliates_LinkShare_Product_ID>
-		<Affiliates_LinkShare_Maximum_Commission_Rate></Affiliates_LinkShare_Maximum_Commission_Rate>
-		<Affiliates_NorthStarSol_Order_Page></Affiliates_NorthStarSol_Order_Page>
-		<Affiliates_NorthStarSol_Vendor_ID></Affiliates_NorthStarSol_Vendor_ID>
-		<Affiliates_NorthStarSol_Product_ID></Affiliates_NorthStarSol_Product_ID>
-		<Affiliates_NorthStarSol_Maximum_Commission_Rate></Affiliates_NorthStarSol_Maximum_Commission_Rate>
-		<Affiliates_OneNetworkDirect_Order_Page></Affiliates_OneNetworkDirect_Order_Page>
-		<Affiliates_OneNetworkDirect_Vendor_ID></Affiliates_OneNetworkDirect_Vendor_ID>
-		<Affiliates_OneNetworkDirect_Product_ID></Affiliates_OneNetworkDirect_Product_ID>
-		<Affiliates_OneNetworkDirect_Maximum_Commission_Rate></Affiliates_OneNetworkDirect_Maximum_Commission_Rate>
-		<Affiliates_Order1_Order_Page></Affiliates_Order1_Order_Page>
-		<Affiliates_Order1_Vendor_ID></Affiliates_Order1_Vendor_ID>
-		<Affiliates_Order1_Product_ID></Affiliates_Order1_Product_ID>
-		<Affiliates_Order1_Maximum_Commission_Rate></Affiliates_Order1_Maximum_Commission_Rate>
-		<Affiliates_Osolis_Order_Page></Affiliates_Osolis_Order_Page>
-		<Affiliates_Osolis_Vendor_ID></Affiliates_Osolis_Vendor_ID>
-		<Affiliates_Osolis_Product_ID></Affiliates_Osolis_Product_ID>
-		<Affiliates_Osolis_Maximum_Commission_Rate></Affiliates_Osolis_Maximum_Commission_Rate>
-		<Affiliates_PayPro_Order_Page></Affiliates_PayPro_Order_Page>
-		<Affiliates_PayPro_Vendor_ID></Affiliates_PayPro_Vendor_ID>
-		<Affiliates_PayPro_Product_ID></Affiliates_PayPro_Product_ID>
-		<Affiliates_PayPro_Maximum_Commission_Rate></Affiliates_PayPro_Maximum_Commission_Rate>
-		<Affiliates_Plimus_Order_Page></Affiliates_Plimus_Order_Page>
-		<Affiliates_Plimus_Vendor_ID></Affiliates_Plimus_Vendor_ID>
-		<Affiliates_Plimus_Product_ID></Affiliates_Plimus_Product_ID>
-		<Affiliates_Plimus_Maximum_Commission_Rate></Affiliates_Plimus_Maximum_Commission_Rate>
-		<Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
-		<Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
-		<Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
-		<Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
-		<Affiliates_Regnow_Order_Page></Affiliates_Regnow_Order_Page>
-		<Affiliates_Regnow_Vendor_ID></Affiliates_Regnow_Vendor_ID>
-		<Affiliates_Regnow_Product_ID></Affiliates_Regnow_Product_ID>
-		<Affiliates_Regnow_Maximum_Commission_Rate></Affiliates_Regnow_Maximum_Commission_Rate>
-		<Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
-		<Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
-		<Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
-		<Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
-		<Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
-		<Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
-		<Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
-		<Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
-		<Affiliates_Shareasale_Order_Page></Affiliates_Shareasale_Order_Page>
-		<Affiliates_Shareasale_Vendor_ID></Affiliates_Shareasale_Vendor_ID>
-		<Affiliates_Shareasale_Product_ID></Affiliates_Shareasale_Product_ID>
-		<Affiliates_Shareasale_Maximum_Commission_Rate></Affiliates_Shareasale_Maximum_Commission_Rate>
-		<Affiliates_SWReg_Order_Page></Affiliates_SWReg_Order_Page>
-		<Affiliates_SWReg_Vendor_ID></Affiliates_SWReg_Vendor_ID>
-		<Affiliates_SWReg_Product_ID></Affiliates_SWReg_Product_ID>
-		<Affiliates_SWReg_Maximum_Commission_Rate></Affiliates_SWReg_Maximum_Commission_Rate>
-		<Affiliates_V-Share_Order_Page></Affiliates_V-Share_Order_Page>
-		<Affiliates_V-Share_Vendor_ID></Affiliates_V-Share_Vendor_ID>
-		<Affiliates_V-Share_Product_ID></Affiliates_V-Share_Product_ID>
-		<Affiliates_V-Share_Maximum_Commission_Rate></Affiliates_V-Share_Maximum_Commission_Rate>
-		<Affiliates_VFree_Order_Page></Affiliates_VFree_Order_Page>
-		<Affiliates_VFree_Vendor_ID></Affiliates_VFree_Vendor_ID>
-		<Affiliates_VFree_Product_ID></Affiliates_VFree_Product_ID>
-		<Affiliates_VFree_Maximum_Commission_Rate></Affiliates_VFree_Maximum_Commission_Rate>
-		<Affiliates_Yaskifo_Order_Page></Affiliates_Yaskifo_Order_Page>
-		<Affiliates_Yaskifo_Vendor_ID></Affiliates_Yaskifo_Vendor_ID>
-		<Affiliates_Yaskifo_Product_ID></Affiliates_Yaskifo_Product_ID>
-		<Affiliates_Yaskifo_Maximum_Commission_Rate></Affiliates_Yaskifo_Maximum_Commission_Rate>
-	</Affiliates>
-	<Simtel>
-		<Simtel_FORM>Y</Simtel_FORM>
-		<SIMTEL_FORM_VER>1.6 11/26/2002</SIMTEL_FORM_VER>
-		<Simtel_Platform>winnt - Windows NT / Windows 2000</Simtel_Platform>
-		<Simtel_Category>Misc. Telecommunications Utilities</Simtel_Category>
-	</Simtel>
-	<site>
-		<site_form>Y</site_form>
-		<site_version>1.0</site_version>
-		<site_url>http://software.submission.gsa-online.de/</site_url>
-		<site_description>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</site_description>
-		<site_site_title>MediaFire Explorer</site_site_title>
-		<site_site_url>http://github.com/jamesheck2019/MediaFire-Explorer/wiki</site_site_url>
-		<site_keywords>upload,download,share,manage,cloud</site_keywords>
-		<site_description_100>client to manage your files in mediafire</site_description_100>
-		<site_description_250>client to manage your files in mediafire</site_description_250>
-		<site_description_450>copy files folders move files folders rename files folders delete files folders upload download files folders share files folders list shared files folders list bookmarked files folders manage data rooms (create, edit, delete) Grab MediaFire stream link</site_description_450>
-		<site_contact_first_name>James</site_contact_first_name>
-		<site_contact_last_name>Heck</site_contact_last_name>
-		<site_contact_email>jamesheck2019@protonmail.com</site_contact_email>
-	</site>
-	<Download_Link_Points_To_Non_Binary_File>TRUE</Download_Link_Points_To_Non_Binary_File>
-	<OnlineShops>
-		<OnlineShops_FORM>Y</OnlineShops_FORM>
-		<OnlineShops_VERSION>1.0</OnlineShops_VERSION>
-		<OnlineShops_PalmGear>on</OnlineShops_PalmGear>
-		<OnlineShops_PocketLand>on</OnlineShops_PocketLand>
-		<OnlineShops_PDAssi>on</OnlineShops_PDAssi>
-		<OnlineShops_PDATopSoft>on</OnlineShops_PDATopSoft>
-		<OnlineShops_PocketGear>on</OnlineShops_PocketGear>
-		<OnlineShops_Softonic>on</OnlineShops_Softonic>
-		<OnlineShops_Winowin>on</OnlineShops_Winowin>
-		<OnlineShops_SoftSearch>on</OnlineShops_SoftSearch>
-		<OnlineShops_Handango_Agreement>on</OnlineShops_Handango_Agreement>
-		<OnlineShops_Handango>on</OnlineShops_Handango>
-	</OnlineShops>
-	<DeuPAD>
-		<DeuPAD_Extension_Version>2.00</DeuPAD_Extension_Version>
-		<DeuPAD_Extension_Info>DeuPad extention was added for compatibility reason. PAD was edited with GSA Auto SoftSubmit at www.gsa-online.de.</DeuPAD_Extension_Info>
-		<SAVE_Member>N</SAVE_Member>
-		<SAVE_Member_Number></SAVE_Member_Number>
-		<Program_Cost_EUR>0.00</Program_Cost_EUR>
-	</DeuPAD>
-	<MSN>
-		<MSN_FORM>Y</MSN_FORM>
-		<MSN_IS_32bit>Y</MSN_IS_32bit>
-	</MSN>
-	<Dynamic_PAD>
-		<General>
-			<DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
-			<DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
-			<DP_Distributive_Enabled>TRUE</DP_Distributive_Enabled>
-			<DP_Script_Base_URL>http://repository.appvisor.com/</DP_Script_Base_URL>
-			<DP_Pad_Mask>MediaFire_Explorer_pad.xml</DP_Pad_Mask>
-			<DP_Distributive_Primary_URL>https://github.com/jamesheck2019/MediaFire-Explorer/releases/download/1.27.0.0/MediaFire.Explorer.v1.27.0.zip</DP_Distributive_Primary_URL>
-			<DP_Distributive_Mask>MediaFire.Explorer.v1.27.0.zip</DP_Distributive_Mask>
-		</General>
-	</Dynamic_PAD>
+    </English>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions>The free version of MediaFire Explorer can be freely distributed over the internet in an unchanged form</Distribution_Permissions>
+    <EULA>The free version of MediaFire Explorer can be freely distributed over the internet in an unchanged form</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_VERSION>1.4</Affiliates_VERSION>
+    <Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_BlueSnap_Order_Page></Affiliates_BlueSnap_Order_Page>
+    <Affiliates_BlueSnap_Vendor_ID></Affiliates_BlueSnap_Vendor_ID>
+    <Affiliates_BlueSnap_Product_ID></Affiliates_BlueSnap_Product_ID>
+    <Affiliates_BlueSnap_Maximum_Commission_Rate></Affiliates_BlueSnap_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM></NewsFeed_FORM>
+    <NewsFeed_VERSION></NewsFeed_VERSION>
+    <NewsFeed_URL></NewsFeed_URL>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Type></NewsFeed_Type>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name>James</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Heck</NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email>jamesheck2019@protonmail.com</NewsFeed_Author_Email>
+    <NewsFeed_Language></NewsFeed_Language>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+    <NewsFeed_Purpose></NewsFeed_Purpose>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+  </NewsFeed>
+  <Press_Release>
+    <Press_Release></Press_Release>
+    <Headline></Headline>
+    <Summary></Summary>
+    <Press_Release_Plain></Press_Release_Plain>
+  </Press_Release>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://software.submission.gsa-online.de/</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>MediaFire Explorer</Site_Site_Title>
+    <Site_Site_URL>http://github.com/jamesheck2019/MediaFire-Explorer/wiki</Site_Site_URL>
+    <Site_Keywords>upload,download,share,manage,cloud</Site_Keywords>
+    <Site_Description_100>client to manage your files in mediafire</Site_Description_100>
+    <Site_Description_250>client to manage your files in mediafire</Site_Description_250>
+    <Site_Description_450>copy files folders move files folders rename files folders delete files folders upload download files folders share files folders list shared files folders list bookmarked files folders manage data rooms (create, edit, delete) Grab MediaFire stream link</Site_Description_450>
+    <Site_Contact_First_Name>James</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Heck</Site_Contact_Last_Name>
+    <Site_Contact_Email>jamesheck2019@protonmail.com</Site_Contact_Email>
+  </Site>
+  <Download_Link_Points_To_Non_Binary_File>Y</Download_Link_Points_To_Non_Binary_File>
+  <Dynamic_PAD>
+    <General>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Enabled>TRUE</DP_Distributive_Enabled>
+      <DP_Script_Base_URL>http://repository.appvisor.com/</DP_Script_Base_URL>
+      <DP_Pad_Mask>MediaFire_Explorer_pad.xml</DP_Pad_Mask>
+      <DP_Distributive_Primary_URL>https://github.com/jamesheck2019/MediaFire-Explorer/releases/download/1.27.0.0/MediaFire.Explorer.v1.27.0.zip</DP_Distributive_Primary_URL>
+      <DP_Distributive_Mask>MediaFire.Explorer.v1.27.0.zip</DP_Distributive_Mask>
+    </General>
+  </Dynamic_PAD>
 </XML_DIZ_INFO>
