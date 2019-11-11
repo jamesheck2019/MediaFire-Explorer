@@ -6,11 +6,12 @@
 		<MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
 		<MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
 		<CERTIFIED>Y</CERTIFIED>
-		<CERTIFICATE_ID>CRT-CYTRACMYU4MF</CERTIFICATE_ID>
-		<CERTIFICATE_LICENSE>http://repository.appvisor.com/crt-cytracmyu4mf</CERTIFICATE_LICENSE>
+		<CERTIFICATE_ID>CRT-B200B74760D0</CERTIFICATE_ID>
+		<CERTIFICATE_LICENSE>http://repository.appvisor.com/crt-b200b74760d0</CERTIFICATE_LICENSE>
 	</MASTER_PAD_VERSION_INFO>
 	<Company_Info>
-		<PublisherID></PublisherID>
+		<PublisherID>pid-e500ff18bd90</PublisherID>
+		<BrandID>bid-f500ea1dcd90</BrandID>
 		<Company_Name>DeQmaTech</Company_Name>
 		<Country>Hungary</Country>
 		<State_Province>Balmaz</State_Province>
@@ -44,7 +45,7 @@
 		<CompanyStorePage></CompanyStorePage>
 	</Company_Info>
 	<Program_Info>
-		<AppID>app-cytracmyu4mf</AppID>
+		<AppID>app-b200b74760d0</AppID>
 		<Program_Name>MediaFire Explorer</Program_Name>
 		<Program_Version>1.27.0.0</Program_Version>
 		<Program_Release_Month>11</Program_Release_Month>
@@ -59,14 +60,14 @@
 		<Program_Categories>Network &amp; Internet::File Sharing/Peer to Peer, Misc. Telecommunications Utilities, Internet</Program_Categories>
 		<Program_Release_Status>Major Update</Program_Release_Status>
 		<Program_Install_Support>No Install Support</Program_Install_Support>
-		<Program_OS_Support>Win7 x32,Win7 x64,WinVista,WinVista x64,Windows 8</Program_OS_Support>
+		<Program_OS_Support>Win2000,Win7 x32,Win7 x64,WinOther,WinServer,WinVista,WinVista x64,WinXP,Windows 8</Program_OS_Support>
 		<Program_Language>English</Program_Language>
 		<Program_Change_Info>-Add proxy</Program_Change_Info>
 		<Program_System_Requirements>Microsoft .NET Framework 4.5.2</Program_System_Requirements>
 		<Limitations></Limitations>
 		<Awards></Awards>
 		<File_Info>
-			<File_Size_Bytes>4823304</File_Size_Bytes>
+			<File_Size_Bytes>4823040</File_Size_Bytes>
 			<File_Size_K>4710</File_Size_K>
 			<File_Size_MB>4.60</File_Size_MB>
 			<Filename_Versioned>mexplo00.zip</Filename_Versioned>
@@ -99,14 +100,14 @@
 			<Application_Order_URL></Application_Order_URL>
 			<Application_Screenshot_URL>https://raw.githubusercontent.com/jamesheck2019/MediaFire-Explorer/master/App/Screens/001_800x600.png</Application_Screenshot_URL>
 			<Application_Icon_URL>https://raw.githubusercontent.com/jamesheck2019/MediaFire-Explorer/master/App/Screens/icon.png</Application_Icon_URL>
-			<Application_XML_File_URL>https://raw.githubusercontent.com/jamesheck2019/MediaFire-Explorer/master/App/PAD.xml</Application_XML_File_URL>
+			<Application_XML_File_URL>http://repository.appvisor.com/app-b200b74760d0/site-01/MediaFire_Explorer_pad.xml</Application_XML_File_URL>
 			<Video_Link_1_URL></Video_Link_1_URL>
 			<Video_Link_2_URL></Video_Link_2_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>https://github.com/jamesheck2019/MediaFire-Explorer/releases/download/1.27.0.0/MediaFire.Explorer.v1.27.0.zip</Primary_Download_URL>
 			<Secondary_Download_URL>https://bitbucket.org/JamesHeck/mediafire-explorer/downloads/MediaFire_Explorer_v1.27.0.zip</Secondary_Download_URL>
-			<Additional_Download_URL_1>https://raw.githubusercontent.com/jamesheck2019/MediaFire-Explorer/master/App/Latest/MediaFire%20Explorer.zip</Additional_Download_URL_1>
+			<Additional_Download_URL_1></Additional_Download_URL_1>
 			<Additional_Download_URL_2></Additional_Download_URL_2>
 		</Download_URLs>
 	</Web_Info>
@@ -116,28 +117,30 @@
 			<Char_Desc_45>client to manage your files in mediafire.com</Char_Desc_45>
 			<Char_Desc_80>client to manage your files in mediafire</Char_Desc_80>
 			<Char_Desc_250>client to manage your files in mediafire</Char_Desc_250>
-			<Char_Desc_450>copy files folders
-move files folders
-rename files folders
-delete files folders
-upload download files folders
-share files folders
-list shared files folders
-list bookmarked files folders
-manage data rooms (create, edit, delete)
-Grab MediaFire stream link</Char_Desc_450>
-			<Char_Desc_2000>**client to manage your files in mediafire.com**
+			<Char_Desc_450>copy files folders move files folders rename files folders delete files folders upload download files folders share files folders list shared files folders list bookmarked files folders manage data rooms (create, edit, delete) Grab MediaFire stream link</Char_Desc_450>
+			<Char_Desc_2000>Upload your files and folders to MediaFire via the desktop client and store them in a cloud. Generating a link for sharing with open or restricted access is possible. Pausing downloads and removing files is possible.
+MediaFire Desktop is a neat cloud-based application that serves as a lesser-known, but competent alternative to services such as Dropbox of Google Drive.
+In its core MediaFire Desktop is a client for the Web service of the same name. It provides a simple interface that helps users synchronize files between several devices, both stationary and mobile, and access such files at any moment. All types of data that you have stored using MediaFire are available at all times from any location, they can be shared with other users, and you also make sure that your information is not lost if the physical data storage device is broken or destroyed. 
+
+There are also some additional options concerning shared file access and document collaboration, as well as advanced file/folder sharing options, even with advanced statistics available to premium users. For example, you can now stream videos.
+
+Overall, MediaFire Desktop is a competent app for accessing and using a solid developing cloud storage service. It has several useful features worth the attention.
+
+
 
 * copy files folders
 * move files folders
 * rename files folders
 * delete files folders
 * upload download files folders
+* upload download progress tracking
+* remote upload supported
+* portable no installation 
 * share files folders
 * list shared files folders
 * list bookmarked files folders
-* manage data rooms (create, edit, delete)
-* Grab MediaFire stream link</Char_Desc_2000>
+* Grab MediaFire stream link
+* extract files from shared folder</Char_Desc_2000>
 		</English>
 	</Program_Descriptions>
 	<Permissions>
@@ -146,7 +149,7 @@ Grab MediaFire stream link</Char_Desc_450>
 	</Permissions>
 	<RoboSoft>
 		<Publish_on_CD>TRUE</Publish_on_CD>
-		<product_uin>APP-CYTRACMYU4MF</product_uin>
+		<product_uin>APP-B200B74760D0</product_uin>
 	</RoboSoft>
 	<Affiliates>
 		<Affiliates_FORM>Y</Affiliates_FORM>
@@ -265,7 +268,7 @@ Grab MediaFire stream link</Char_Desc_450>
 	<Simtel>
 		<Simtel_FORM>Y</Simtel_FORM>
 		<SIMTEL_FORM_VER>1.6 11/26/2002</SIMTEL_FORM_VER>
-		<Simtel_Platform>Select - Other Platform (blank)</Simtel_Platform>
+		<Simtel_Platform>winnt - Windows NT / Windows 2000</Simtel_Platform>
 		<Simtel_Category>Misc. Telecommunications Utilities</Simtel_Category>
 	</Simtel>
 	<site>
@@ -278,16 +281,7 @@ Grab MediaFire stream link</Char_Desc_450>
 		<site_keywords>upload,download,share,manage,cloud</site_keywords>
 		<site_description_100>client to manage your files in mediafire</site_description_100>
 		<site_description_250>client to manage your files in mediafire</site_description_250>
-		<site_description_450>copy files folders
-move files folders
-rename files folders
-delete files folders
-upload download files folders
-share files folders
-list shared files folders
-list bookmarked files folders
-manage data rooms (create, edit, delete)
-Grab MediaFire stream link</site_description_450>
+		<site_description_450>copy files folders move files folders rename files folders delete files folders upload download files folders share files folders list shared files folders list bookmarked files folders manage data rooms (create, edit, delete) Grab MediaFire stream link</site_description_450>
 		<site_contact_first_name>James</site_contact_first_name>
 		<site_contact_last_name>Heck</site_contact_last_name>
 		<site_contact_email>jamesheck2019@protonmail.com</site_contact_email>
@@ -314,6 +308,10 @@ Grab MediaFire stream link</site_description_450>
 		<SAVE_Member_Number></SAVE_Member_Number>
 		<Program_Cost_EUR>0.00</Program_Cost_EUR>
 	</DeuPAD>
+	<MSN>
+		<MSN_FORM>Y</MSN_FORM>
+		<MSN_IS_32bit>Y</MSN_IS_32bit>
+	</MSN>
 	<Dynamic_PAD>
 		<General>
 			<DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
