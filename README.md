@@ -21,16 +21,11 @@ Overall, MediaFire Desktop is a competent app for accessing and using a solid de
 * list bookmarked files folders
 * Grab MediaFire stream link
 * extract files from shared folder
+* you **DONT** have to [upgrade to MediaFire Pro to get this features](https://i.postimg.cc/mkrMzkGh/ure-Wiz913.png)
 
 `Download:`
 [https://github.com/jamesheck2019/MediaFire-Explorer/releases](https://github.com/jamesheck2019/MediaFire-Explorer/releases)
 
-![https://i.postimg.cc/d0XZwTpf/LV6N.png](https://i.postimg.cc/d0XZwTpf/LV6N.png)
-
-![https://i.postimg.cc/7YPLSY0b/ure-Wiz134.png](https://i.postimg.cc/7YPLSY0b/ure-Wiz134.png)
-
-![https://i.postimg.cc/8z2DX1JR/ure-Wiz135.png](https://i.postimg.cc/8z2DX1JR/ure-Wiz135.png)
-
-![https://i.postimg.cc/CMc0TCnL/ure-Wiz136.png](https://i.postimg.cc/CMc0TCnL/ure-Wiz136.png)
+![main-sc](https://i.postimg.cc/HjGXGfYY/Media-Fire-Explorer-Qkv5b-Qes-HD.png)
 
 ![https://i.postimg.cc/76qFjbx2/image.png](https://i.postimg.cc/76qFjbx2/image.png)
